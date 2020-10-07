@@ -12,11 +12,11 @@ contract Inbox {
         message = newMessage;
     }
     
-    function doMath(int a, int b) public {
-        a + b;
-        b - a;
-        a * b;
-        a == 0;
-    }
+    // function doMath(int a, int b) public {
+    //     a + b;
+    //     b - a;
+    //     a * b;
+    //     a == 0;
+    // }
     
 }
